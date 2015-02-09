@@ -7,3 +7,4 @@
  		System.out.println("汉字："+chinaword3+"的位置："+(int)chinaword3);
  	}
  }
+ //
